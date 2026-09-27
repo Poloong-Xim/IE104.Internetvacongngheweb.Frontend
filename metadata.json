@@ -1,0 +1,6 @@
+{
+  "name": "CarFix - Cứu Hộ & Sửa Xe Lưu Động 24/7",
+  "description": "Hệ thống điều phối cứu hộ và sửa xe cơ động ô tô, xe máy lưu động 24/7 tại chỗ. Định vị thợ thời gian thực, bảng giá chuẩn minh bạch 100%.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
