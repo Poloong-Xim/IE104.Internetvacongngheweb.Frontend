@@ -1,0 +1,31 @@
+.Menu-NavBar{
+  display: flex;
+  background-color: darkblue;
+}
+
+.MenuTitle{
+  margin-left: 0.75rem;
+  font-family: 'Courier New', Courier, monospace;
+  word-spacing: -0.75rem;
+  font-size: 35px;
+  margin-top: 25px;
+}
+
+.img-icon{
+}
+
+.NavButtons{
+  margin-left: auto;
+  margin-top: 25px;
+}
+
+.MenuNavButton{
+  margin: 10px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  border:none;
+  background-color: transparent;
+}
